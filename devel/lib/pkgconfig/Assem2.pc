@@ -1,0 +1,8 @@
+prefix=/home/tdz/catkin_ws/devel
+
+Name: Assem2
+Description: Description of Assem2
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
